@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+env/
+.env/
+.venv/
+ENV/
+
+# Python virtual environment binary files
+bin/
+lib/
+include/
+lib64/
+pyvenv.cfg
+
+# pip files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+key.py
