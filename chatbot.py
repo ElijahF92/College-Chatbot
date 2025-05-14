@@ -1,5 +1,5 @@
 import cohere
-from key import API_KEY
+from key import API_KEY #replace with key
 import streamlit as st
 
 COHERE_API_KEY = API_KEY
